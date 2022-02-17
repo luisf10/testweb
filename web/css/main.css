@@ -1,0 +1,29 @@
+body{
+    background-color:brown;
+    color: cornsilk;
+}
+
+header{
+    text-align: center;
+    border: solid 2px black;
+    background-color: chartreuse;
+}
+#bloque1{
+    width: 500px;
+    margin:auto;
+    margin-top: 40px;
+    margin-bottom:40px;
+    border-style: dotted;
+    background-color: crimson;
+    text-align: justify;
+}
+
+#bloque2{
+    width: 500px;
+    margin:auto;
+    margin-top: 40px;
+    margin-bottom:40px;
+    border:solid 2px red;
+    background-color: darkcyan;
+    text-align: justify;
+}
